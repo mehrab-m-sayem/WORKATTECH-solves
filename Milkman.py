@@ -7,4 +7,4 @@ h = inpf[1]
 v = 3.14*(r**2)*h
 a = v/1000
 p = a*40
-print(format(p, '.2f'))
+print(format(p, '.2f')) # .2f means two floating points to show
