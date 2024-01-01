@@ -1,0 +1,6 @@
+# Write your code here
+n = int(input())
+for i in range(n):
+	val = float(input())
+	val_f = (9*val)/5 + 32
+	print(format(val_f, ".2f"))
